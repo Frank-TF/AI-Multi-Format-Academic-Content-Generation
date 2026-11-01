@@ -115,3 +115,11 @@ template-based question generation. The IoT case study adds a source-grounded do
 layout engines: the same input always produces the same deck and poster. Phase 4 applies a
 transparent formal-style ruleset and reports the before/after readability metrics rather than
 claiming an unverifiable improvement.
+
+## Source attribution
+
+The bundled `assets/source/whitebook_iot.pdf` is *Internet of Things (IoT): Societal Challenges
+& Scientific Research Fields for IoT* (Inria White Book No. 05, 2021), used as the offline case
+study. The document remains the property of its authors and is included only as the
+demonstration corpus. All generated artefacts in this repository are derived from that source
+and the project's own review layer.
