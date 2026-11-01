@@ -1,0 +1,119 @@
+{
+  "generated": "2026-10-31T08:03:23",
+  "source": {
+    "file": "whitebook_iot.pdf",
+    "title": "Internet of Things (IoT): Societal, Scientific, and Technical Foundations",
+    "pages": 92,
+    "words": 24972,
+    "characters": 172472,
+    "sections_detected": 204
+  },
+  "meta": {
+    "author": "TEGUIA FRANK",
+    "uid": "26MCA20153",
+    "course": "26CAP-608",
+    "title": "Internet of Things (IoT): Societal, Scientific, and Technical Foundations",
+    "institution": "Chandigarh University"
+  },
+  "phases": {
+    "phase1": {
+      "name": "Summarisation and structuring",
+      "stats": {
+        "source_words": 24972,
+        "source_pages": 92,
+        "source_sentences": 927,
+        "summary_words": 2216,
+        "compression_ratio": 8.9,
+        "reading_time_min": 11,
+        "topics": 4,
+        "definitions": 12,
+        "matrix_rows": 11,
+        "questions": 12,
+        "revision_points": 12,
+        "prose_words": 858,
+        "readability": {
+          "words": 808,
+          "sentences": 50,
+          "avg_sentence_length": 16.16,
+          "flesch_reading_ease": 11.1,
+          "flesch_kincaid_grade": 15.7,
+          "lexical_density": 69.4
+        }
+      },
+      "topics": [
+        "Introduction and Evolution of the Internet of Things",
+        "Societal Challenges of an IoT-Enabled World",
+        "Scientific and Technical Challenges of IoT",
+        "Architecture and Research Fields of the Cloud-Edge-Thing Continuum"
+      ],
+      "keywords": [
+        "Internet of Things",
+        "edge computing",
+        "lightweight cryptography",
+        "federated learning",
+        "digital sovereignty",
+        "SUIT",
+        "RIOT OS"
+      ]
+    },
+    "phase2": {
+      "name": "Presentation deck generation",
+      "slides": 10,
+      "file": "IoT_Foundations_Deck.pptx",
+      "bytes": 63613
+    },
+    "phase3": {
+      "name": "Visual infographic synthesis",
+      "file": "IoT_Academic_Infographic.png",
+      "width": 1654,
+      "height": 2339,
+      "dpi": 200,
+      "bytes": 176753
+    },
+    "phase4": {
+      "name": "Scholarly writing refinement",
+      "metrics_before": {
+        "words": 79,
+        "sentences": 4,
+        "avg_sentence_length": 19.75,
+        "flesch_reading_ease": 20.8,
+        "flesch_kincaid_grade": 15.3,
+        "lexical_density": 62.0
+      },
+      "metrics_after": {
+        "words": 203,
+        "sentences": 8,
+        "avg_sentence_length": 25.38,
+        "flesch_reading_ease": -1.9,
+        "flesch_kincaid_grade": 19.8,
+        "lexical_density": 66.0
+      },
+      "changes": {
+        "contractions": 0,
+        "informal": 2,
+        "fillers": 0
+      },
+      "audit_score": 83.3,
+      "glossary_terms": 12
+    }
+  },
+  "timings_seconds": {
+    "extraction": 0.35,
+    "phase1": 18.74,
+    "phase2": 0.53,
+    "phase3": 0.95,
+    "phase4": 0.01,
+    "export": 0.73
+  },
+  "total_seconds": 21.31,
+  "files": {
+    "study_guide_docx": "Comprehensive_Study_Guide.docx",
+    "study_guide_md": "Comprehensive_Study_Guide.md",
+    "deck_pptx": "IoT_Foundations_Deck.pptx",
+    "poster_png": "IoT_Academic_Infographic.png",
+    "poster_pdf": "IoT_Academic_Infographic.pdf",
+    "refinement_docx": "Phase4_Academic_Refinement.docx",
+    "refinement_md": "Phase4_Academic_Refinement.md",
+    "bundle_zip": "IoT_Content_Bundle.zip"
+  }
+}

@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+env/
+
+# Local configuration and secrets
+.env
+.streamlit/secrets.toml
+
+# Generated runs (the curated demo bundle is kept)
+outputs/run_*/
+
+# Report working files
+report/report_pages/
+report/reference_pages/
+report/reference_layout.pdf
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
